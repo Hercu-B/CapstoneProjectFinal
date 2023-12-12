@@ -39,3 +39,8 @@ From this model the following actions can be taken:
 1. Implementation of the model in a real time control system coupled to data read from the vibration sensor for the individual machines.
 2. Addition of flagging mechanism for operators to visually see the in-situ outcome of the machining operation.
 3. Addition of further classes for the classifications used, adding more information such as the type of failure observed by the operator rather than ust OK and NOK. Doing this could allow for further cost saving in the long run.
+
+# Accessing the data
+The data set used in this project can be found at :
+https://archive.ics.uci.edu/dataset/752/bosch+cnc+machining+dataset
+It has not been uploaded due to the size restrictions of github.
