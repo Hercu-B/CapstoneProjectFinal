@@ -1,5 +1,5 @@
 # CapstoneProjectFinal
-
+link: https://github.com/Hercu-B/CapstoneProjectFinal/blob/main/HerculaasBotha_CaptsoneProject_Final.ipynb
 Code that creates features for vibration sensor response of cnc machine for failure detection.
 This code presents the results of using scikit learn classifier on a data set provided for the vibrational response of a cnc mill.
 Three different milling machines are observed over multiple months for thirteen different machining operations.
